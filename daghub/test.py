@@ -1,5 +1,5 @@
 import dagshub
-dagshub.init(repo_owner='mahmoudradwaan98', repo_name='dage_churn_test', mlflow=True)
+dagshub.init(repo_owner='d12o6aa', repo_name='my-first-repo', mlflow=True)
 
 import mlflow
 with mlflow.start_run():
